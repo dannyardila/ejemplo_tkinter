@@ -18,7 +18,7 @@ menu_archivo.add_cascade(label='Abrir', menu=submenu_abrir)
 menu_archivo.add_command(label="Guardar")
 menu_archivo.add_command(label="Guardar como")
 menu_archivo.add_separator()
-img = PhotoImage(file="../imagenes/salir.gif")
+img = PhotoImage(file="5_widgets/SALIR1.png")
 menu_archivo.add_command(label="Salir", image=img, compound="left", command=salir)
 barra_menus.add_cascade(label="Archivo", menu=menu_archivo)
 

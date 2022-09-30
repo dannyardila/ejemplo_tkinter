@@ -1,2 +1,2 @@
-# ejemplo_tkinter
-subir
+# ejemplos_tkinter
+EJEMPLOS TKINTER :V.
